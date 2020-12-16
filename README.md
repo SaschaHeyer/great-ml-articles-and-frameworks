@@ -15,3 +15,8 @@
 * Building Serverless Applications with Google Cloud Run </br> 
 https://www.amazon.com/Building-Serverless-Applications-Google-Cloud-ebook/dp/B08PHT7W5T/
 
+## Data Annotation
+
+* Named Entity Recognition (NER) Annotation tool for SpaCy </br> 
+  https://github.com/tecoholic/ner-annotator
+
